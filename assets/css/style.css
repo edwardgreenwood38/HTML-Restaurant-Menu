@@ -95,5 +95,19 @@ th {
     justify-content: space-around;
     margin: 20px 5px;
     color:black;
+    border-top: 1px groove black;
+    padding: 15px 0px;
 }
 
+.green {
+    color:green;
+}
+
+.hot {
+    color:red;
+}
+
+.active {
+    font-weight: bold;
+    color:darkolivegreen
+}
